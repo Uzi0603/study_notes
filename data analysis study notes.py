@@ -211,3 +211,5 @@ import matplotlib as plt
 #* arr21=np.array([1,-1,np.nan]) # nan为形式空值
 #* print(np.isnan(arr21)) # 逐个判断元素是否为空值
 
+for i in range(5):
+    print(i)
